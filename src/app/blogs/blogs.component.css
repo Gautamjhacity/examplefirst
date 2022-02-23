@@ -1,0 +1,34 @@
+.text-decoration-none{
+    color: black;
+}
+
+
+
+ 
+  
+  .container img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .container .btn {
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    width: 100px;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color:  #27ADE2 ;
+    color: white;
+    font-size: 10px;
+    max-height: 20px;
+    padding: 2px 2px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    text-align: center;
+  }
+  
+  .container .btn:hover {
+    background-color: black;
+  }
